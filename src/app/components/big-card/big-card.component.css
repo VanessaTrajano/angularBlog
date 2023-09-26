@@ -1,0 +1,31 @@
+.container-BigCard{
+    border: solid white 2px;
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 10px 20px;
+}
+
+.bigCard-photo img{
+    height: 298px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.bigCard-title h1{
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.bigCard-description{
+    padding: 0px 10px;
+}
+
+.bigCard-description p{
+    color: #808080;
+    margin-top: 10px;
+    text-align: justify;
+}

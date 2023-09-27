@@ -16,3 +16,21 @@
     margin-top: 20px;
     margin-bottom: 5px;
 }
+
+@media (max-width: 1100px) {
+    .container_MenuTitle h1{
+        font-size: 70px;
+    }
+}
+
+@media (max-width: 700px) {
+    .container_MenuTitle h1{
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container_MenuTitle h1{
+        font-size: 30px;
+    }
+}

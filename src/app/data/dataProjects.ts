@@ -1,0 +1,20 @@
+export const dataProjects = [
+    {
+        "id":"1",
+        "photo":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+        "title":"bbbbbbb",
+        "description":"cccccc"
+    },
+    {
+        "id":"2",
+        "photo":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+        "title":"bbbbbbb",
+        "description":"cccccc"
+    },
+    {
+        "id":"3",
+        "photo":"https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png",
+        "title":"bbbbbbb",
+        "description":"cccccc"
+    }
+]
